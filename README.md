@@ -1,4 +1,4 @@
-![alt text](hhttps://github.com/LooksLikeMe/STLTask/blob/ee03c685cd704312eb7eb2a6c3387bbbf4f153c4/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202021-06-21%20%D0%B2%2011.25.04.png)
+![alt text](https://github.com/LooksLikeMe/STLTask/blob/ee03c685cd704312eb7eb2a6c3387bbbf4f153c4/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202021-06-21%20%D0%B2%2011.25.04.png)
 
 # Getting Started with Create React App
 
