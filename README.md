@@ -1,4 +1,4 @@
-![alt text](http://url/to/img.png)
+![alt text](Снимок экрана 2021-06-21 в 11.25.04.png)
 
 # Getting Started with Create React App
 
