@@ -1,13 +1,30 @@
 body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+  background-color: #161616;
+  color: #ECDBBA;
+}
+.user {
+  margin: 0 5px 0 0;
+}
+.editBtn {
+  margin: 10px 5px 10px 0px;
+  background-color: #346751;
+}
+.editBtn:hover {
+  margin: 10px 5px 10px 0px;
+  background-color: #51a17e;
+}
+.deleteBtn {
+  margin: 10px 5px 10px 0px;
+  background-color: #C84B31;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.deleteBtn:hover {
+  margin: 10px 5px 10px 0px;
+  background-color: #ff5e3d;
+}
+input {
+  color: #ECDBBA;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
-}
+
+@import "~materialize-css/dist/css/materialize.min.css"
